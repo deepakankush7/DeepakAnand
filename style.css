@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top-cloud{
+ height: 50px;
+ width: 150px;
+ margin-left: 700px;
+ margin-top: 60px;
+}
+.title-text{
+    text-align: center;
+    margin-top: 40px;
+    font-family:cursive;
+}
+.bottom-cloud{
+    height: 50px;
+    width: 150px;
+    margin-left: 400px;
+    margin-top: 60px;
+}
+.for{
+    width: 30%;
+    height: 200px;
+    display: block;
+    margin-left: 450px;
+}
+.top-container{
+    background-color: white;
+}
+.profile{
+    text-align: center;
+}
+.coding{
+    display: inline;
+}
+.one{
+    height: 150px;
+    width: 180px;
+}
+.two{
+    margin-right: 1300px;
+}
+
+
+
+
+
+
+
+
+
